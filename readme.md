@@ -1,4 +1,4 @@
-### obektev.github.io
+### <a href="obektev.github.io">obektev.github.io</a>
 
 18 лет <br />
 Увлекаюсь программированием, 3d-дизайном, видеоиграми <br  />
