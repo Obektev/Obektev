@@ -5,6 +5,7 @@
 **Interests:** Programming, 3D design, and video games
 
 **Technologies & Tools:** Kotlin/Compose Multiplatform/Ktor/PostgreSQL, Java/Android Views//Paper/Spigot, C++, Python, Unity, Blender
+
 **Fun fact:** I enjoy writing parsers using Selenium
 
 **Education:**
