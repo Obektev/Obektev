@@ -1,14 +1,16 @@
 ### <a href="https://obektev.github.io">obektev.github.io</a>
 
-18 лет <br />
-Увлекаюсь программированием, 3d-дизайном, видеоиграми <br  />
+**Age:** 18
+**Interests:** Programming, 3D design, and video games
 
-Пишу на Java, Kotlin, C++, Python <br />
-Разбираюсь в Android Views, Spigot/Paper, Unity, Blender <br />
-Учу Jetpack Compose <br />
-Люблю писать парсеры на Selenium <br  />
+**Technologies & Tools:** Kotlin/Compose Multiplatform/Ktor/PostgreSQL, Java/Android Views//Paper/Spigot, C++, Python, Unity, Blender
+**Fun fact:** I enjoy writing parsers using Selenium
 
-Первый курс университета: БНТУ, Факультет информационных технологий и робототехники, Программная инженерия <br />
-11 классов Гимназии №5 г. Витебска <br  />
+**Education:**
 
-Любимые игры: IFSCL, Voices Of The Void, Devil May Cry 5, Factorio, Satisfactory, Dishonored <br />
+Second-year student at Belarusian National Technical University (BNTU), Faculty of Information Technology and Robotics, majoring in Software Engineering
+
+Completed 11 grades at Gymnasium No. 5, Vitebsk
+
+Favorite games:
+IFSCL, Voices of the Void, Devil May Cry 5, Satisfactory, Dishonored, RE 8: Village
