@@ -16,3 +16,5 @@ Completed 11 grades at Gymnasium No. 5, Vitebsk
 
 Favorite games:
 IFSCL, Voices of the Void, Devil May Cry 5, Satisfactory, Dishonored, RE 8: Village
+
+[![wakatime](https://wakatime.com/badge/user/018d68bc-2bb1-4065-a3df-96ec60c49f35.svg)](https://wakatime.com/@018d68bc-2bb1-4065-a3df-96ec60c49f35)
