@@ -1,6 +1,6 @@
 ### <a href="https://obektev.github.io">obektev.github.io</a>
 
-**Age:** 19
+**Age:** 20
 
 **Interests:** Programming, 3D design, and video games
 
@@ -10,7 +10,7 @@
 
 **Education:**
 
-Second-year student at Belarusian National Technical University (BNTU), Faculty of Information Technology and Robotics, majoring in Software Engineering
+Third-year student at Belarusian National Technical University (BNTU), Faculty of Information Technology and Robotics, majoring in Software Engineering
 
 Completed 11 grades at Gymnasium No. 5, Vitebsk
 
